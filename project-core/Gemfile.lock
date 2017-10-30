@@ -1,0 +1,17 @@
+PATH
+  remote: .
+  specs:
+    project-core (0.0.0)
+
+GEM
+  remote: http://www.rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  project-core!
+
+BUNDLED WITH
+   1.16.0.pre.3
