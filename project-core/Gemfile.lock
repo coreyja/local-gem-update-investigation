@@ -2,10 +2,12 @@ PATH
   remote: .
   specs:
     project-core (0.0.0)
+      coreyja-test-gem
 
 GEM
   remote: http://www.rubygems.org/
   specs:
+    coreyja-test-gem (0.0.0)
 
 PLATFORMS
   ruby

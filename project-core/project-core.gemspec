@@ -7,4 +7,6 @@ Gem::Specification.new do |s|
   s.authors     = ["Corey Alexander"]
   s.email       = 'coreyja@gmail.com'
   s.files       = ["lib/project-core.rb"]
+
+  s.add_dependency 'coreyja-test-gem'
 end
