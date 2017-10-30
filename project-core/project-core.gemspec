@@ -9,4 +9,5 @@ Gem::Specification.new do |s|
   s.files       = ["lib/project-core.rb"]
 
   s.add_dependency 'coreyja-test-gem'
+  s.add_dependency 'coreyja-test-gem-2'
 end
