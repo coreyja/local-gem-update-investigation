@@ -3,12 +3,12 @@ PATH
   specs:
     project-core (0.0.0)
       coreyja-test-gem
-      coreyja-test-gem-2
+      coreyja-test-gem-2 (= 0.0.1)
 
 GEM
   specs:
-    coreyja-test-gem (0.0.1)
-    coreyja-test-gem-2 (0.0.0)
+    coreyja-test-gem (0.0.2)
+    coreyja-test-gem-2 (0.0.1)
 
 PLATFORMS
   ruby
