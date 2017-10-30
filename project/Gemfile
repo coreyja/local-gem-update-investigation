@@ -1,0 +1,1 @@
+gem 'project-core', path: '../project-core'
